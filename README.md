@@ -1,2 +1,2 @@
 # Transcriptome-analyses-of-mouse-embryos
-Data analyses for 'parallel tracking dosage compensation in the early mouse embryo'
+Data analyses for 'Imprinted X-chromosome inactivation at the gamete-to-embryo transition'
